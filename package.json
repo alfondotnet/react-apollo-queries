@@ -1,6 +1,6 @@
 {
   "name": "react-apollo-queries",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Apollo Query component wrapper to allow for multiple queries without nesting",
   "main": "dist/index.js",
   "scripts": {
